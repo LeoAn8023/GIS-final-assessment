@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578766742417.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "25580387",
+    "lastKnownWriteTime" : 19140779460001857,
+    "last_content_update" : 1578766742417,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "858e3702210942d186f2daa4525c6e6b",
+        "name" : "wardFireOGR",
+        "title" : "wardFireOGR"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

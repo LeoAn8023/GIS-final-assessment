@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578667687975.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2814178121",
+    "id" : "2239781C",
+    "lastKnownWriteTime" : 1578678781,
+    "last_content_update" : 1578678781487,
+    "path" : "//ad.ucl.ac.uk/homen/ucfnzan/DesktopSettings/Desktop/GIS Files/GIS final assessment/Dwelling Fire R Project/Dwelling Fire R Project.R",
+    "project_path" : "Dwelling Fire R Project.R",
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "24"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

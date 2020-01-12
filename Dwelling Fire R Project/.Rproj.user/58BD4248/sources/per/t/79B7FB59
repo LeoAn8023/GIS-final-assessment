@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578766744650.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "79B7FB59",
+    "lastKnownWriteTime" : 29836824280170608,
+    "last_content_update" : 1578766744650,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2663B755",
+        "caption" : "wardFireOGR@data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=2663B755",
+        "displayedObservations" : 624,
+        "environment" : "_rs_no_env",
+        "expression" : "wardFireOGR@data",
+        "object" : "",
+        "preview" : 0,
+        "totalObservations" : 624,
+        "variables" : 30
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

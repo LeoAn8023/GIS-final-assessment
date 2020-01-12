@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578135929491.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "914659670",
+    "id" : "6E93A501",
+    "lastKnownWriteTime" : 1578249453,
+    "last_content_update" : 1578249453369,
+    "path" : "C:/Users/MSI/Desktop/GIS Files/GIS final assessment/Dwelling Fire R Project/Dwelling Fire R Project.R",
+    "project_path" : "Dwelling Fire R Project.R",
+    "properties" : {
+        "cursorPosition" : "277,0",
+        "scrollLine" : "262"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

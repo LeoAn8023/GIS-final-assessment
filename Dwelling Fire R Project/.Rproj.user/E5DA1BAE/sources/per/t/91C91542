@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578240987640.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "91C91542",
+    "lastKnownWriteTime" : 14355468629901366,
+    "last_content_update" : 1578240987640,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "e1071baa98af4f8d8b3e74b0be9963af",
+        "name" : "IMDmap",
+        "title" : "IMDmap"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578069988214.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A872D59C",
+    "lastKnownWriteTime" : 8246223293474941986,
+    "last_content_update" : 1578069988214,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2DC0148B",
+        "caption" : "wardLondon",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wardLondon&cache_key=2DC0148B",
+        "displayedObservations" : 649,
+        "environment" : "",
+        "expression" : "wardLondon",
+        "object" : "wardLondon",
+        "preview" : 0,
+        "totalObservations" : 649,
+        "variables" : 8
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
